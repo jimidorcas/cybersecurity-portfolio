@@ -45,14 +45,7 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 - **Security Frameworks:** NIST CSF, ISO 27001 basics  
 - **Other:** Sysmon, Suricata, Wireshark, Excel/Power BI for reporting  
 
----
-
-## 📊 Why This Portfolio?
-I’m building a career in cybersecurity with a focus on both:  
-- **SOC Analyst Skills** → threat detection, SIEM monitoring, phishing analysis.  
-- **Consultancy Skills** → gap analysis, incident response planning, awareness campaigns.  
-
-This mix shows I can **do the technical work** and **explain it clearly to clients and stakeholders** — the two sides of a strong cybersecurity professional.  
+---  
 
 ---
 
