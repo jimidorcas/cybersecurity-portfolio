@@ -1,4 +1,5 @@
-![Cybersecurity Portfolio Banner](assets/banner.png)
+![Cybersecurity Portfolio Banner](assets/cybersecurity_portfolio_banner.png)
+
 
 
 Welcome to my cybersecurity portfolio!  
