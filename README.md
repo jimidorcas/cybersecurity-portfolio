@@ -1,4 +1,4 @@
-![Cybersecurity Portfolio Banner](assets/cybersecurity_portfolio_banner.png)
+![Cybersecurity Portfolio Banner]([assets/cybersecurity_portfolio_banner.png](https://github.com/jimidorcas/cybersecurity-portfolio/commit/9079bdfa0c8afa0a94e5e1637003f0bcac59264b))
 
 
 Welcome to my cybersecurity portfolio!  
