@@ -10,7 +10,8 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 ## 🚀 Portfolio Roadmap
 
 ### ✅ Phase 1 – Foundations (SOC Skills)
-1. [SIEM Threat Detection Lab (Splunk/Wazuh)](link-coming-soon)  
+1. [SIEM Threat Detection Lab (Splunk/Wazuh)]([SIEM Threat Detection Lab](https://github.com/jimidorcas/siem-threat-detection-lab) ✅
+)  
    → Collect logs, build dashboards, and detect brute-force/malware/insider threats.  
 2. [Phishing Email Analysis (Python)](link-coming-soon)  
    → Parse phishing emails, extract IOCs, and automate red-flag detection.  
