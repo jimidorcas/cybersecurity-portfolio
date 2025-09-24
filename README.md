@@ -1,4 +1,4 @@
-# 🔐 Dorcas Olujimi – Cybersecurity Portfolio
+# 🔐 Dorcas Olujimi - Cybersecurity Portfolio
 
 
 Welcome to my cybersecurity portfolio!  
