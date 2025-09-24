@@ -2,7 +2,7 @@
 
 
 Welcome to my cybersecurity portfolio!  
-This repository showcases a mix of **technical SOC analyst projects** and **consultancy-style projects** that demonstrate my ability to both **detect/respond to threats** and **communicate risks to stakeholders**.  
+This repository showcases a mix of **technical SOC analyst projects** and **consultancy-style projects**.  
 
 I’m building this portfolio systematically over 12 weeks. Each project is linked below as it goes live.  
 
