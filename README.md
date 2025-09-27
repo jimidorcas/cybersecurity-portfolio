@@ -1,8 +1,7 @@
 # 🔐 Dorcas Olujimi - Cybersecurity Portfolio
 
 
-Welcome to my cybersecurity portfolio!  
-This repository showcases a mix of **technical SOC analyst projects** and **consultancy-style projects**.  
+Welcome to my cybersecurity portfolio!    
 
 I’m building this portfolio systematically over 12 weeks. Each project is linked below as it goes live.  
 
