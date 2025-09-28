@@ -11,11 +11,10 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 
 ### ✅ Phase 1 – Foundations (SOC Skills)
 1. [SIEM Threat Detection Lab](https://github.com/jimidorcas/siem-threat-detection-lab) ✅
-   
-  Because brute-force logins, suspicious processes, and unusual network traffic are common attacker techniques, I built a Splunk SIEM lab to simulate how SOC teams detect these threats. I ingested system logs, wrote detection queries (SPL), and built dashboards to flag malicious behavior. This project demonstrates how analysts identify and respond to early signs of compromise in real-world environments.
-3. [Phishing Email Analysis (Python)](link-coming-soon)  
+   → Because brute-force logins, suspicious processes, and unusual network traffic are common attacker techniques, I built a Splunk SIEM lab to simulate how SOC teams detect these threats. I ingested system logs, wrote detection queries (SPL), and built dashboards to flag malicious behavior. This project demonstrates how analysts identify and respond to early signs of compromise in real-world environments.
+2. [Phishing Email Analysis (Python)](link-coming-soon)  
    → Parse phishing emails, extract IOCs, and automate red-flag detection.  
-4. [Incident Response Playbook – Phishing → Malware](link-coming-soon)  
+3. [Incident Response Playbook – Phishing → Malware](link-coming-soon)  
    → IR workflow aligned with NIST CSF, including escalation & comms templates.  
 
 ---
