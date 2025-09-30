@@ -1,7 +1,6 @@
 # 🔐 Dorcas Olujimi - Cybersecurity Portfolio
 
-
-Welcome to my cybersecurity portfolio!    
+Welcome to my cybersecurity portfolio. Each project demonstrates real-world problem solving in detection, prevention, response, and risk management.
 
 I’m building this portfolio systematically over 12 weeks. Each project is linked below as it goes live.  
 
@@ -12,8 +11,8 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 ### ✅ Phase 1 – Foundations (SOC Skills)
 1. [SIEM Threat Detection Lab](https://github.com/jimidorcas/siem-threat-detection-lab) ✅
    → Because brute-force logins, suspicious processes, and unusual network traffic are common attacker techniques, I built a Splunk SIEM lab to simulate how SOC teams detect these threats. I ingested system logs, wrote detection queries (SPL), and built dashboards to flag malicious behavior. This project demonstrates how analysts identify and respond to early signs of compromise in real-world environments.
-2. [Phishing Email Analysis (Python)](link-coming-soon)  
-   → Parse phishing emails, extract IOCs, and automate red-flag detection.  
+2. [Vulnerability Scanning & Remediation Lab (Nmap, OpenVAS, Python)](link-coming-soon)  
+   → I used Nmap and OpenVAS to scan a test system and found outdated Apache and weak SSH configs — both common real-world vulnerabilities. I documented remediation steps (patches, config changes) aligned with CIS Benchmarks, and wrote a Python script to automate parsing scan results and flag risky ports. This mirrors how vulnerability analysts validate findings and streamline remediation.
 3. [Incident Response Playbook – Phishing → Malware](link-coming-soon)  
    → IR workflow aligned with NIST CSF, including escalation & comms templates.  
 
