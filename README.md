@@ -8,7 +8,7 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 
 ## 🚀 Portfolio Roadmap
 
-### ✅ Phase 1 – Foundations (SOC Skills)
+### ✅ Phase 1 – Foundations 
 1. [SIEM Threat Detection Lab](https://github.com/jimidorcas/siem-threat-detection-lab) ✅
    → Because brute-force logins, suspicious processes, and unusual network traffic are common attacker techniques, I built a Splunk SIEM lab to simulate how SOC teams detect these threats. I ingested system logs, wrote detection queries (SPL), and built dashboards to flag malicious behavior.
 2. [Vulnerability Scanning & Remediation Lab (Nmap, OpenVAS, Python)](https://github.com/jimidorcas/vulnerability-scanning-lab) ✅
@@ -18,8 +18,8 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 
 ---
 
-### ⏳ Phase 2 – Applied SOC Work
-4. Threat Hunting with Logs  
+### ⏳ Phase 2 – 
+4. Threat Hunting with Logs (Splunk, Sysmon)
    → Attackers often persist by creating scheduled tasks, abusing PowerShell, or clearing event logs. I simulated these behaviours in a lab and wrote SPL queries to hunt them, mapping detections to MITRE ATT&CK. This project shows how analysts can proactively detect threats before alerts even trigger.  
 5. Cyberattack Investigation & Report  
    → Investigate a simulated ransomware/phishing attack and deliver a client-ready report.  
@@ -28,7 +28,7 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 
 ---
 
-### ⏳ Phase 3 – Consultancy Strength
+### ⏳ Phase 3 – 
 7. Security Gap Analysis Report  
    → Assess a fictional SME’s current vs. desired security posture (ISO 27001 / NIST CSF).  
 8. Security Awareness Campaign (Dept-Specific)  
