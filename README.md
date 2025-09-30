@@ -20,7 +20,7 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 
 ### ⏳ Phase 2 – Applied SOC Work
 4. Threat Hunting with Logs  
-   → Hunt persistence techniques (registry mods, scheduled tasks) using Sysmon/Suricata logs.  
+   → Attackers often persist by creating scheduled tasks, abusing PowerShell, or clearing event logs. I simulated these behaviours in a lab and wrote SPL queries to hunt them, mapping detections to MITRE ATT&CK. This project shows how analysts can proactively detect threats before alerts even trigger.  
 5. Cyberattack Investigation & Report  
    → Investigate a simulated ransomware/phishing attack and deliver a client-ready report.  
 6. Risk Assessment Matrix  
