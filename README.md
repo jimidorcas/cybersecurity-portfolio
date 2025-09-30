@@ -14,7 +14,7 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 2. [Vulnerability Scanning & Remediation Lab (Nmap, OpenVAS, Python)](https://github.com/jimidorcas/vulnerability-scanning-lab) ✅
    → I used Nmap and OpenVAS to scan a test system and found outdated Apache and weak SSH configs — both common real-world vulnerabilities. I documented remediation steps (patches, config changes) aligned with CIS Benchmarks, and wrote a Python script to automate parsing scan results and flag risky ports. 
 3. [Incident Response Playbook – Phishing → Malware](link-coming-soon)  
-   → IR workflow aligned with NIST CSF, including escalation & comms templates.  
+   → Since phishing often leads to malware infections, I created an IR Playbook that guides teams through Identify, Protect, Detect, Respond, and Recover phases. I expanded the repo to include ransomware, insider threat, and BEC scenarios, providing escalation workflows and remediation guide  
 
 ---
 
