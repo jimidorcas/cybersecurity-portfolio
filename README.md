@@ -13,13 +13,13 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
    → Because brute-force logins, suspicious processes, and unusual network traffic are common attacker techniques, I built a Splunk SIEM lab to simulate how SOC teams detect these threats. I ingested system logs, wrote detection queries (SPL), and built dashboards to flag malicious behavior.
 2. [Vulnerability Scanning & Remediation Lab (Nmap, OpenVAS, Python)](https://github.com/jimidorcas/vulnerability-scanning-lab) ✅
    → I used Nmap and OpenVAS to scan a test system and found outdated Apache and weak SSH configs — both common real-world vulnerabilities. I documented remediation steps (patches, config changes) aligned with CIS Benchmarks, and wrote a Python script to automate parsing scan results and flag risky ports. 
-3. [Incident Response Playbook – Phishing → Malware](link-coming-soon)  
+3. [Incident Response Playbook – Phishing → Malware](https://github.com/jimidorcas/incident-response-playbooks) 
    → Since phishing often leads to malware infections, I created an IR Playbook that guides teams through Identify, Protect, Detect, Respond, and Recover phases. I expanded the repo to include ransomware, insider threat, and BEC scenarios, providing escalation workflows and remediation guide  
 
 ---
 
 ### ⏳ Phase 2 – 
-4. Threat Hunting with Logs (Splunk, Sysmon)
+4. [Threat Hunting with Logs (Splunk, Sysmon)]([link-coming-soon])
    → Attackers often persist by creating scheduled tasks, abusing PowerShell, or clearing event logs. I simulated these behaviours in a lab and wrote SPL queries to hunt them, mapping detections to MITRE ATT&CK. This project shows how analysts can proactively detect threats before alerts even trigger.  
 5. Cyberattack Investigation & Report  
    → Investigate a simulated ransomware/phishing attack and deliver a client-ready report.  
