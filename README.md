@@ -30,11 +30,11 @@ I’m building this portfolio systematically over 12 weeks. Each project is link
 ---
 
 ### ⏳ Phase 3 – 
-7. Security Gap Analysis Report  
+8. Security Gap Analysis Report  
    → Assess a fictional SME’s current vs. desired security posture (ISO 27001 / NIST CSF).  
-8. Security Awareness Campaign (Dept-Specific)  
+9. Security Awareness Campaign (Dept-Specific)  
    → Awareness toolkit (slides, checklist, quiz) for Finance or Remote Workers.  
-9. Executive Dashboard – Cybersecurity KPIs  
+10. Executive Dashboard – Cybersecurity KPIs  
    → Mock KPI dashboard for phishing attempts, MTTR, training %, patch compliance.  
 
 ---
